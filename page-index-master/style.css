@@ -1,5 +1,5 @@
 .container{
-    background-color: rgb(255,255,255,0.6);
+    background-color: rgb(255,255,255,0.9);
 }
 #truc-haut{
 	background-color: white;
@@ -88,8 +88,16 @@
 } 
 body{
     
-    background-image: url(back6.jpg);
+    background-image: url(BACK8.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+.btn-outline-success:hover {
+    background-color: blueviolet;
+    border-color: blueviolet;
+}
+.btn-outline-success {
+    border-color:blueviolet;
+    color: blueviolet;
 }
